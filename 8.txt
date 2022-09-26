@@ -3,7 +3,7 @@
 年代新闻台,P2p://ns1.hellotvvod.com:9906/cb9b246b644045d9904bda7cff64700a
 中天新闻台,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
 民视新闻台,P2p://ns1.hellotvvod.com:9906/246f55af09774c22add9f50cb0427021
-！！！！三立新闻台,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
+三立新闻台,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
 TVBS新闻台,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
 TVBS,P2p://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
 非凡新闻台,P2p://ns1.hellotvvod.com:9906/488033886cea43a0981601bca1285663
